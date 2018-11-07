@@ -40,7 +40,7 @@ module.exports = MarkdownImgHelper =
 						# ascClip = "assets/#{filename}"
 						# clipboard.writeText(ascClip)
 
-						@insertUrl "#{filename}",editor
+						@insertUrl "![](#{filename})",editor
 
 				return false
 
