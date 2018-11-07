@@ -1,7 +1,5 @@
 # Markdown Image Helper
 
-**Warning: I choose Emacs to write markdown , so this plugin is not maintain anymore**
-
 An Atom plugin for Markdown grammar. Create image file relative to the markdown file and insert a relative url to that file.
 
 Inspired by [markdown-image-helper](https://github.com/1071496910/atom-hugo-image)，adaptive hugo image dir.
